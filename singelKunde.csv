@@ -1,0 +1,7 @@
+sep=;
+Kunder
+Forsikringsnummer;Etternavn;Fornavn;Kunde siden;Fakturaadresse;Ubetalte erstatninger
+10000;Sannes;Bjørn;2019-05-01;Lundetunet 93;78665.0
+Batforsikring
+Registrert til;Årlig forsikringspremie;Dato opprettet;Forsikringsbeløp;Forsikringsbetingelser;ForsikringsID;Eier;Registreringsnummer;Type;Modell;Lengde i fot;Årsmodell;Motortype;Motorstyrke (HP)
+10000;123123.0;2019-05-02;123123.0;jaja;200001;Kjølstad,Jonathan;aa36477;Volvo;240GL;15.0;1992;B230F;116

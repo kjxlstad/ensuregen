@@ -1,0 +1,22 @@
+sep=;
+Kunder
+Forsikringsnummer;Etternavn;Fornavn;Kunde siden;Fakturaadresse;Ubetalte erstatninger
+10000;jk;jk;2019-05-01;jk;0.0
+Batforsikringer
+Registrert til;Årlig forsikringspremie;Dato opprettet;Forsikringsbeløp;Forsikringsbetingelser;ForsikringsID;Eier;Registreringsnummer;Type;Modell;Lengde i fot;Årsmodell;Motortype;Motorstyrke (HP)
+10000;1000.0;2019-05-01;10000.0;Alt;200001;Pettersen,Lars;AA3145;lkjlkj;lkjlkj;30.0;1999;jkl;123
+Hus- og innboforsikring
+Registrert til;Årlig forsikringspremie;Dato opprettet;Forsikringsbeløp;Forsikringsbetingelser;ForsikringsID;Forsikringsbeløp bygning;Forsikringsbeløp innbo;Adresse;Byggeår;Boligtype;Boligmateriale;Standard;Kvadratmeter
+10000;10100.0;2019-05-01;100000.0;jaja;200003;1001.0;1010.0;jk;2012;Enebolig;Mur;aldf;314
+Fritidsboligforsikringer
+Registrert til;Årlig forsikringspremie;Dato opprettet;Forsikringsbeløp;Forsikringsbetingelser;ForsikringsID;Forsikringsbeløp bygning;Forsikringsbeløp innbo;Adresse;Byggeår;Boligtype;Boligmateriale;Standard;Kvadratmeter
+10000;1230.0;2019-05-01;10001.0;klaf;200005;101.0;12.0;Veiveien 12;1967;Hytte;Treverk;isda;123
+Reiseforsikringer
+Registrert til;Årlig forsikringspremie;Dato opprettet;Forsikringsbeløp;Forsikringsbetingelser;ForsikringsID;Premiumforsikring;Forsikringssum
+10000;101.0;2019-05-01;1010.0;asdfsdf;200007;true;10110.0
+Skademeldinger
+Registrert til;Dato for skade;Type skade;Beskrivelse av skade;Takseringsbeløp;Utbetalt erstatningsbeløp;Skadenummer
+10000;2019-05-09;sdfsdf;sdfsdf;123123.0;123123.0;100
+Vitner
+Registrert til;Tilhører skadenummer;Etternavn;Fornavn;Kontaktinformasjon
+10000;100;Navnesen;Navn;90647713

@@ -1,0 +1,10 @@
+sep=;
+Kunder
+Forsikringsnummer;Etternavn;Fornavn;Kunde siden;Fakturaadresse;Ubetalte erstatninger
+10001;Kjølstad;Jonathan;2019-05-02;Grøstadveien 5;0.0
+Skademeldinger
+Registrert til;Dato for skade;Type skade;Beskrivelse av skade;Takseringsbeløp;Utbetalt erstatningsbeløp;Skadenummer
+10001;2019-05-09;Singelulykke;Motorsykkel sklidd å kjørt ut;100001.0;123123.0;100
+Vitner
+Registrert til;Tilhører skadenummer;Etternavn;Fornavn;Kontaktinformasjon
+10001;100;Bekkelund;Jonas;9123123
